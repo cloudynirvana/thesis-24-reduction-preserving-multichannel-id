@@ -7,6 +7,7 @@ authors:
     given-names: Kelechi Emeka
     email: kelechiogbonna300@gmail.com
     alias: cloudynirvana
+    website: "https://github.com/cloudynirvana"
 abstract: >-
   After a documented stiff-sloppy or MBAM-style reduction, which multi-channel
   Fisher ranks from the full metabolic ODE survive on the reduced system, and
@@ -39,6 +40,8 @@ preferred-citation:
   authors:
     - family-names: Ogbonna
       given-names: Kelechi Emeka
+      email: kelechiogbonna300@gmail.com
+      website: "https://github.com/cloudynirvana"
   year: 2026
   month: 9
   url: "https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id"

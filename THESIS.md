@@ -3,6 +3,8 @@
 **Thesis #24. Computational research thesis**  
 **Depends on:** Thesis #9 (multi-channel metabolic ODE identifiability) and Thesis #12 (stiff–sloppy / MBAM-style reduction)  
 **Author:** Kelechi Emeka Ogbonna  
+**Email:** kelechiogbonna300@gmail.com  
+**GitHub:** https://github.com/cloudynirvana  
 **Correspondence:** kelechiogbonna300@gmail.com · https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id  
 **Date:** 21 September 2026  
 **Format:** B.Sc. project chapters (Nile University style), written as a computational methods manuscript  
