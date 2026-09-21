@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Reduction-preserving multi-channel identifiability: which Fisher ranks survive a stiff–sloppy reduction?"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  After a documented stiff-sloppy or MBAM-style reduction, which multi-channel
+  Fisher ranks from the full metabolic ODE survive on the reduced system, and
+  which ranks are artefacts of the unreduced coordinates? On one synthetic
+  eight-rate metabolic generator, a quasi-steady reduction that keeps the
+  product kappa leaves the practical ranks of the shared schedules unchanged:
+  the lactate/glucose ratio stays at 1, and the four-channel snapshot stays at
+  5, so the multi-channel advantage of 4 survives. The schedule that records
+  the deleted modifier has practical rank 6 and no reduced counterpart.
+  Numerical eigenvalues in the deleted plane vanish and never cleared the
+  practical cut. Not a medical device.
+keywords:
+  - Fisher information
+  - practical identifiability
+  - model reduction
+  - manifold boundary approximation
+  - quasi-steady state
+  - sloppy models
+  - cancer metabolism
+  - multi-channel observation
+  - computational oncology
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id"
+repository-code: "https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id"
+preferred-citation:
+  type: thesis
+  title: "Reduction-preserving multi-channel identifiability: which Fisher ranks survive a stiff–sloppy reduction?"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id"
+  notes: "Thesis #24. Depends on Thesis #9 and Thesis #12. Synthetic multi-channel surrogate, not a CCLE download. No document DOI."
